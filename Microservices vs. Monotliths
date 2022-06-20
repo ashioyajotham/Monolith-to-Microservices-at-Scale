@@ -1,0 +1,6 @@
+//Microservices - independently deployed services that communicate with one another through networks
+//Monoliths - self-contained applications that are deployed as one unit
+
+How is a monolith similar to a large department store?
+* Convenience of handling everything in one area
+* Ease of sharing resources across different services
