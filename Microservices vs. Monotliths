@@ -4,3 +4,18 @@
 How is a monolith similar to a large department store?
 * Convenience of handling everything in one area
 * Ease of sharing resources across different services
+
+
+// Deploying code is the act of releasing code changes to an environment
+
+Factors to consider before Code Deployment
+* Downtime
+* Downstream effects
+* Ease of deployment
+* Potential bugs
+
+
+When not to Use Microservices
+* System complexity
+* Network latency
+* DIfficulty with debugging
