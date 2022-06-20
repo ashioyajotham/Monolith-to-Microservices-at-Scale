@@ -29,4 +29,10 @@ Microservice Benefits
   * Development in Parallel Teams can develop and deploy their own codebases.
   * Cost-Effectiveness Utilize resources only for what is necessary for the specific microservice.
   * Flexibility Choose technologies that make the most sense for the team and business.
+  
+  
+Properties of Microservices
+  * Communication (REST)
+  * Independently deployed
+  * Fault tolerance
 
