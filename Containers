@@ -1,0 +1,8 @@
+* Docker is a platform that helps us manage the creation and managing our containers.
+
+// Docker image - When we have an application that we want to deploy, we can package it into a Docker Image. 
+                The image contains all of your code and dependencies.
+                
+// Docker instance - an ephemeral running instance of a docker image
+
+// Dockerfile - defines the steps to create a docker image
