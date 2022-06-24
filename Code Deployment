@@ -1,0 +1,4 @@
+// Continuous Integration - process in which code is deployed, tested and built into a Docker image and deployed to a container registry. 
+                            Code is built automatically into a Docker image.
+
+//Continuous deployment - process in which our docker image is deployed into containers. A new docker container is created to use the latest docker image.
