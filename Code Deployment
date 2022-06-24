@@ -2,3 +2,7 @@
                             Code is built automatically into a Docker image.
 
 //Continuous deployment - process in which our docker image is deployed into containers. A new docker container is created to use the latest docker image.
+
+
+* Travis CI - a tool for continuous integration.
+            - YAML helps us to store configurations.
